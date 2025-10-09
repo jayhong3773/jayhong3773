@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning data analytics through bootcamp.
   
-- 👯 I discovered the value of data while working on a startup project — you can check it out [here].
+- 👯 I discovered the value of data while working on a startup project — you can check it out <a href="https://github.com/jayhong3773/Share.io">[here]</a>
   
 - ⚡ I love the moment of finding meaningful insights after spending serval days collaborating with people.
   
